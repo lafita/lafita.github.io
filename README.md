@@ -1,2 +1,3 @@
-# lafita.github.io
+# Aleix Lafita Masip
+
 Personal website
