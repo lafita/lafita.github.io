@@ -2,11 +2,11 @@ EMBL PhD fellow with strong background in molecular biology, statistics and comp
 
 ## Experience
 
-**2017-present** | *University of Cambridge* & *European Bioinformatics Institute (EMBL-EBI)* - PhD Bioinformatics
+**2017-present**  *University of Cambridge* & *European Bioinformatics Institute (EMBL-EBI)* - PhD Bioinformatics
 
-**2014-2017** | *ETH Zurich* - MSc Computational Biology
+**2014-2017**  *ETH Zurich* - MSc Computational Biology
 
-**2010-2014** | *Autonomous University of Barcelona* - BSc Biotechnology
+**2010-2014**  *Autonomous University of Barcelona* - BSc Biotechnology
 
 ## Publications
 
