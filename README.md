@@ -1,7 +1,7 @@
 
 I am currently an EMBL PhD fellow supervised by Dr. Alex Bateman at the European Bioinformatics Institute (EMBL-EBI) and the University of Cambridge (UK).
 I previously completed a Bachelor's degree in Biotechnology in Barcelona, followed by a Master's at the ETH Zurich where I joined the research group of Dr. Guido Capitani at the Paul Scherrer Institute.
-I develop computational methods and algorithms, applying machine learning and other statistical methods, to model protein sequences and structures and understand their function and role in disease.
+I develop computational methods and algorithms, applying machine learning and other statistical methods, to model protein sequences and structures to understand their function and role in disease.
 
 ## Experience
 
