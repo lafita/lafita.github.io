@@ -15,10 +15,10 @@ I develop computational methods and algorithms, applying machine learning and ot
 **2017-present** PhD Bioinformatics - *University of Cambridge*, UK  
 
 **2014-2017** MSc Computational Biology and Bioinformatics - *ETH Zurich*, CH  
-- Thesis: [Assessment of protein assembly prediction in CASP12 & Conformational dynamics of integrin alpha-I domains](https://doi.org/10.3929/ethz-a-010863273)
+  Thesis: [Assessment of protein assembly prediction in CASP12 & Conformational dynamics of integrin alpha-I domains](https://doi.org/10.3929/ethz-a-010863273)
 
 **2010-2014** BSc Biotechnology - *Autonomous University of Barcelona*, ES  
-- Thesis: [A study of transmembrane helix distortions with computational tools](https://ddd.uab.cat/record/119344)
+  Thesis: [A study of transmembrane helix distortions with computational tools](https://ddd.uab.cat/record/119344)
 
 ## Links
 
