@@ -1,10 +1,27 @@
 
 ## Bio
 
-I am currently an [EMBL PhD fellow](https://www.ebi.ac.uk/about/people/aleix-lafita-masip) supervised by [Dr. Alex Bateman](https://www.ebi.ac.uk/research/bateman) at the [European Bioinformatics Institute EMBL-EBI](https://www.ebi.ac.uk/) and the [University of Cambridge](https://www.cam.ac.uk).
-I previously completed a Bachelor's degree in Biotechnology in Barcelona, followed by a Master's in Computational Biology at the [ETH Zurich](https://ethz.ch) where I joined the research group of [Dr. Guido Capitani](https://www.psi.ch/en/lbr/guido-capitani-1970-2017) at the [Paul Scherrer Institute](https://www.psi.ch).
-I develop computational methods and algorithms, applying machine learning and other statistical methods, to model protein sequences and structures with the aim to understand their function and role in disease.
+I am currently an [EMBL PhD fellow](https://www.ebi.ac.uk/about/people/aleix-lafita-masip) at the [European Bioinformatics Institute EMBL-EBI](https://www.ebi.ac.uk/) and the [University of Cambridge](https://www.cam.ac.uk) supervised by [Dr. Alex Bateman](https://www.ebi.ac.uk/research/bateman).
+I previously completed a Bachelor's degree in Biotechnology at the [Autonomous University of Barcelona](https://www.uab.cat/en/), followed by a a Master's in Computational Biology at the [ETH Zurich](https://ethz.ch), where I joined the research group of [Dr. Guido Capitani](https://www.psi.ch/en/lbr/guido-capitani-1970-2017) at the [Paul Scherrer Institute](https://www.psi.ch).
 
+## Research
+
+I develop computational methods and algorithms, applying machine learning and other statistical methods, to model the sequence and structure of proteins with the aim to understand their function and role in disease.
+As part of my PhD I am working on a project to computationally classify and model tandem domain repeats in multidomain proteins, integrating various genomics and structural datasets. 
+I previously worked on several other research projects including the [EPPIC tool](http://www.eppic-web.org/ewui/) for the prediction of protein-protein interfaces, the analysis of symmetry in protein structures, and the [BioJava](https://biojava.org/) open-source bioinformatics library. 
+In 2016 I was an assessor of protein assembly models in [CASP](https://predictioncenter.org/), an international challenge for protein structure prediction methods.
+
+## Software
+
+**Protein-EDM** Modelling protein structures from distance matrices using Euclidean geometry, available on GitHub: https://github.com/lafita/protein-edm-demo
+
+**TADOSS** Method to estimate the stability of domain swap misfolding in proteins, available on GitHub: https://github.com/lafita/tadoss
+
+**CE-Symm** Tool to detect and analyse the symmetry in protein structures and complexes, available on GitHub: https://github.com/rcsb/symmetry
+
+**EPPIC** Evolutionary Protein-Protein Interface Classifier, available as a web-app (http://www.eppic-web.org) and on GitHub: https://github.com/eppic-team/eppic
+
+**BioJava** General-purpose and open-source bioinformatics library written in Java, avaialble on GitHub: https://github.com/biojava/biojava
 
 ## Experience
 
@@ -16,6 +33,7 @@ I develop computational methods and algorithms, applying machine learning and ot
 ## Education
 
 **2017-present** PhD Bioinformatics - *University of Cambridge*, UK  
+Thesis: Computational modelling of tandem domain repeats in proteins
 
 **2014-2017** MSc Computational Biology and Bioinformatics - *ETH Zurich*, CH  
 Thesis: [Assessment of protein assembly prediction in CASP12 & Conformational dynamics of integrin alpha-I domains](https://doi.org/10.3929/ethz-a-010863273)
