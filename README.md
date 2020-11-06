@@ -13,15 +13,15 @@ In 2016 I was an assessor of protein assembly models in [CASP](https://predictio
 
 ## Software
 
-**Protein-EDM** Modelling protein structures from distance matrices using Euclidean geometry, available on GitHub: https://github.com/lafita/protein-edm-demo
+**Protein-EDM** Modelling protein structures from distance matrices using Euclidean geometry, available on GitHub: [github.com/lafita/protein-edm-demo](https://github.com/lafita/protein-edm-demo)
 
-**TADOSS** Method to estimate the stability of domain swap misfolding in proteins, available on GitHub: https://github.com/lafita/tadoss
+**TADOSS** Method to estimate the stability of domain swap misfolding in proteins, available on GitHub: [github.com/lafita/tadoss](https://github.com/lafita/tadoss)
 
-**CE-Symm** Tool to detect and analyse the symmetry in protein structures and complexes, available on GitHub: https://github.com/rcsb/symmetry
+**CE-Symm** Tool to detect and analyse the symmetry in protein structures and complexes, available on GitHub: [github.com/rcsb/symmetry](https://github.com/rcsb/symmetry)
 
-**EPPIC** Evolutionary Protein-Protein Interface Classifier, available as a web-app (http://www.eppic-web.org) and on GitHub: https://github.com/eppic-team/eppic
+**EPPIC** Evolutionary Protein-Protein Interface Classifier, available as a web-app ([www.eppic-web.org](http://www.eppic-web.org)) and on GitHub: [github.com/eppic-team/eppic](https://github.com/eppic-team/eppic)
 
-**BioJava** General-purpose and open-source bioinformatics library written in Java, avaialble on GitHub: https://github.com/biojava/biojava
+**BioJava** General-purpose and open-source bioinformatics library written in Java, avaialble on GitHub: [github.com/biojava/biojava](https://github.com/biojava/biojava)
 
 ## Experience
 
