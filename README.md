@@ -2,7 +2,7 @@
 ## Bio
 
 I am currently an [EMBL PhD fellow](https://www.ebi.ac.uk/about/people/aleix-lafita-masip) at the [European Bioinformatics Institute EMBL-EBI](https://www.ebi.ac.uk/) and the [University of Cambridge](https://www.cam.ac.uk) supervised by [Dr. Alex Bateman](https://www.ebi.ac.uk/research/bateman).
-I previously completed a Bachelor's degree in Biotechnology at the [Autonomous University of Barcelona](https://www.uab.cat/en/), followed by a a Master's in Computational Biology at the [ETH Zurich](https://ethz.ch), where I joined the research group of [Dr. Guido Capitani](https://www.psi.ch/en/lbr/guido-capitani-1970-2017) at the [Paul Scherrer Institute](https://www.psi.ch).
+I previously completed a Bachelor's degree in Biotechnology at the [Autonomous University of Barcelona](https://www.uab.cat/en/), followed by a Master's in Computational Biology at the [ETH Zurich](https://ethz.ch), where I joined the research group of [Dr. Guido Capitani](https://www.psi.ch/en/lbr/guido-capitani-1970-2017) at the [Paul Scherrer Institute](https://www.psi.ch).
 
 ## Research
 
