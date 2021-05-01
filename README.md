@@ -26,10 +26,10 @@ I have also been an assessor of protein assembly models in two editions (2016 an
 
 ## Experience
 
-**2021-present** GSK, UK
-**2017-2021** European Bioinformatics Institute EMBL-EBI, UK - PhD fellow
-**2016-2017** Paul Scherrer Institute & University of Zurich, CH - MSc thesis
-**2015-2016** Paul Scherrer Institute, CH - Research intern
+**2021-present** GSK, UK  
+**2017-2021** European Bioinformatics Institute EMBL-EBI, UK - PhD fellow  
+**2016-2017** Paul Scherrer Institute & University of Zurich, CH - MSc thesis  
+**2015-2016** Paul Scherrer Institute, CH - Research intern  
 **2013-2014** Laboratory of Computational Medicine, ES - BSc thesis
 
 ## Education
