@@ -10,7 +10,7 @@ I also completed a Bachelor's degree in Biotechnology at the [Autonomous Univers
 I develop computational methods and algorithms, applying machine learning and other statistical methods, to model the sequence and structure of proteins with the aim to understand their function, evolution and role in disease.
 As part of my PhD, I have worked on a project to computationally classify and model tandem domain repeats in multidomain proteins, integrating various genomics and protein structure datasets. 
 I have worked on several research projects and methods, including the [EPPIC tool](http://www.eppic-web.org/ewui/) for the classification of protein-protein interfaces, the analysis of symmetry in protein structures with [CE-Symm](https://github.com/rcsb/symmetry), and the [BioJava](https://biojava.org/) open-source bioinformatics library. 
-I have also been an assessor of protein assembly models in two editions (2016 and 2018) of [CASP](https://predictioncenter.org/index.cgi?page=assessors_list), an international challenge for protein structure prediction methods, contributing new evaluation scores and analyses.
+I have also been an assessor of protein assembly models in two editions (2016 and 2018) of [CASP](https://predictioncenter.org/index.cgi?page=assessors_list) (an international challenge for protein structure prediction methods) and developed new evaluation scores and analyses.
 
 ## Software
 
@@ -30,12 +30,13 @@ I have also been an assessor of protein assembly models in two editions (2016 an
 **2017-2021** European Bioinformatics Institute EMBL-EBI, UK - PhD fellow  
 **2016-2017** Paul Scherrer Institute & University of Zurich, CH - MSc thesis  
 **2015-2016** Paul Scherrer Institute, CH - Research intern  
-**2013-2014** Laboratory of Computational Medicine, ES - BSc thesis
+**2013-2014** Laboratory of Computational Medicine, ES - BSc thesis  
+**2013** IHT Innovation S.L.U., ES - Trainee
 
 ## Education
 
 **2017-2021** PhD Bioinformatics - *University of Cambridge*, UK  
-Thesis: Computational modelling of tandem domain repeats in proteins
+Thesis: [Computational discovery and  modelling of tandem domain repeats in proteins](https://www.repository.cam.ac.uk/handle/1810/324246)
 
 **2014-2017** MSc Computational Biology and Bioinformatics - *ETH Zurich*, CH  
 Thesis: [Assessment of protein assembly prediction in CASP12 & Conformational dynamics of integrin alpha-I domains](https://doi.org/10.3929/ethz-a-010863273)
