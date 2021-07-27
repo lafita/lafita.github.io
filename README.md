@@ -36,7 +36,7 @@ I have also been an assessor of protein assembly models in two editions (2016 an
 ## Education
 
 **2017-2021** PhD Bioinformatics - *University of Cambridge*, UK  
-Thesis: [Computational discovery and  modelling of tandem domain repeats in proteins](https://www.repository.cam.ac.uk/handle/1810/324246)
+Thesis: [Computational discovery and  modelling of tandem domain repeats in proteins](https://doi.org/10.17863/CAM.71704)
 
 **2014-2017** MSc Computational Biology and Bioinformatics - *ETH Zurich*, CH  
 Thesis: [Assessment of protein assembly prediction in CASP12 & Conformational dynamics of integrin alpha-I domains](https://doi.org/10.3929/ethz-a-010863273)
